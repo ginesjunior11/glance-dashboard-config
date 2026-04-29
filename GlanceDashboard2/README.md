@@ -10,9 +10,11 @@ If you came here from Reddit, welcome. Take whatever is useful.
 
 ## Preview
 
-> ![alt text][def]
+> <img width="1282" height="950" alt="Glances_D (2)" src="https://github.com/user-attachments/assets/60015427-fe0a-406f-9eb4-c3d0508142cd" />
 
-> ![alt text][def2]
+
+> <img width="1259" height="953" alt="Glances_D (1)" src="https://github.com/user-attachments/assets/59feb0c0-72b5-4751-a9d8-7446c47dad63" />
+
 
 ---
 
