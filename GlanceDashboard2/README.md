@@ -57,7 +57,7 @@ glance/
 1. **Clone or download** this repository
 2. Copy the `.env.example` file and rename it to `.env`:
    ```bash
-   cp .env.example .env
+   cp env.example .env
    ```
 3. Edit the `.env` file and fill in your own values (IPs, passwords, API keys)
     - IP addresses
