@@ -9,6 +9,7 @@ If you came here from Reddit, welcome. Take whatever is useful.
 ---
 
 ## Preview
+**Here’s how it looks in my setup:**
 
 > <img width="1282" height="950" alt="Glances_D (2)" src="https://github.com/user-attachments/assets/60015427-fe0a-406f-9eb4-c3d0508142cd" />
 
